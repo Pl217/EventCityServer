@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "MOSIS Server",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "csprng": "^0.1.1",
+    "express": "^4.13.4",
+    "geolib": "^2.0.21",
+    "mongoose": "^4.4.17",
+    "morgan": "^1.7.0",
+    "underscore": "^1.8.3"
+  },
+  "author": "Pl217",
+  "license": "MIT"
+}
